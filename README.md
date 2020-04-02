@@ -1,3 +1,7 @@
+---
+### No longer maintained. Please see [@fiquu/slseed-web-app](https://github.com/fiquu/slseed-web-app).
+---
+
 # Fi Slseed App
 
 Serveless Seed Web App project.
